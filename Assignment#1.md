@@ -3,10 +3,15 @@
 # 1 Poster Presentation + Linkedin
 > Enter the Linkedin Post URL
 > https://www.linkedin.com/posts/moushika-m-49454b331_powerbi-microsoft-dataanalytics-activity-7436639746371776512-rs6N?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFONXPABVENp_QJ88xs6SksZrGFUr8DtPA8&utm_campaign=copy_link
+>
+> 
+> <img width="1215" height="3917" alt="poster" src="https://github.com/user-attachments/assets/0f74faf9-6bcd-4c6e-9db4-2bc58f3f0a50" />
+
 
 # 2 GitHub Students Developers Pack
 > Enter the GitHub Students Developers Pack Screenshot
-> [GitHub Students Developers Pack Screenshot]
+> <img width="1341" height="556" alt="Screenshot 2026-03-09 084506" src="https://github.com/user-attachments/assets/2bcf84c9-00c7-4778-8442-dbb0f0cefbfd" />
+
 
 # 3 AI-Assisted Note Creation using NotebookLM - Unit 1 Topics
 > https://notebooklm.google.com/notebook/dfae1218-f2aa-4111-8aca-55ba5e4e1395
