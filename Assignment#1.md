@@ -26,7 +26,10 @@
 
 # 5 AI-Assisted Note Creation using ChatGPT (Canvas) - Unit 3 Topic
 > https://chatgpt.com/share/69ae6ca1-9988-800c-bd8b-37da7c1143d5
-> 
+> https://github.com/24ad066-hue/question_5_in_assignment
 
 # 6 Secure File Upload to AWS S3 using Pre-Signed URL
-> 
+><img width="1365" height="628" alt="Screenshot 2026-03-11 195509" src="https://github.com/user-attachments/assets/f2983dfe-8229-4c5c-bcfc-755338760624" />
+
+>  <img width="1365" height="591" alt="Screenshot 2026-03-11 195450" src="https://github.com/user-attachments/assets/7ff066da-670d-4ede-8383-170c7d17594d" />
+
